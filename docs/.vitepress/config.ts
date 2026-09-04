@@ -171,22 +171,22 @@ export default defineConfig({
       ]
     },
 
-    socialLinks: [
-      {
-        icon: 'github',
-        link: 'https://github.com/pratik-webkul/product-auction-doc'
-      }
-    ],
+    // socialLinks: [
+    //   {
+    //     icon: 'github',
+    //     link: 'https://github.com/pratik-webkul/product-auction-doc'
+    //   }
+    // ],
 
     search: {
       provider: 'local'
     },
 
-    editLink: {
-      pattern:
-        'https://github.com/pratik-webkul/product-auction-doc/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
-    },
+    // editLink: {
+    //   pattern:
+    //     'https://github.com/pratik-webkul/product-auction-doc/edit/main/docs/:path',
+    //   text: 'Edit this page on GitHub'
+    // },
 
     footer: {
       message: 'Product Auction for Shopify documentation',
