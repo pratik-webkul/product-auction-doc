@@ -4,13 +4,13 @@ export default defineConfig({
   title: 'Product Auction',
   description: 'Documentation for the Product Auction module',
 
-  // Served from https://pratik-webkul.github.io/product-auction-doc/
-  base: '/product-auction-doc/',
+  // Served from https://auction-doc.webkul.com/
+  base: '/',
 
   lastUpdated: true,
   cleanUrls: true,
 
-  head: [['link', { rel: 'icon', href: '/product-auction-doc/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
   themeConfig: {
     nav: [
