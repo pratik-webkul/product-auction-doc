@@ -1,0 +1,16 @@
+.VPImage.logo {
+  width: auto !important;
+  height: 48px !important;
+}
+
+/* Light Theme */
+html:not(.dark) .VPImage.logo {
+  height: 48px !important;
+  width: auto !important;
+}
+
+/* Dark Theme */
+html.dark .VPImage.logo {
+  height: 52px !important;
+  width: auto !important;
+}
