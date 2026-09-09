@@ -134,42 +134,86 @@ export default defineConfig({
     ],
 
     sidebar: {
-      '/guide/': [
+  '/guide/': [
+    {
+      text: 'Guide',
+      items: [
         {
-          text: 'Guide',
-          items: [
-            {
-              text: 'Get Started',
-              link: '/guide/get-started'
-            },
-            {
-              text: 'Installation',
-              link: '/guide/installation'
-            },
-            {
-              text: 'Auction Configuration',
-              link: '/guide/auction-configuration'
-            },
-            {
-              text: 'Proxy Bidding',
-              link: '/guide/proxy-bidding'
-            },
-            {
-              text: 'Penny Auction',
-              link: '/guide/penny-auction'
-            },
-            {
-              text: 'WhatsApp Bid Notification',
-              link: '/guide/whatsapp-bid-notification'
-            },
-            {
-              text: 'Auto Pay',
-              link: '/guide/auto-pay'
-            }
-          ]
+          text: 'Get Started',
+          link: '/guide/get-started'
+        },
+        {
+          text: 'Installation',
+          link: '/guide/installation'
+        },
+        {
+          text: 'Auction Configuration',
+          link: '/guide/auction-configuration'
+        },
+        {
+          text: 'Code Integration',
+          link: '/guide/code-integration'
+        },
+        {
+          text: 'Add Auction Product',
+          link: '/guide/add-auction-product'
+        },
+        {
+          text: 'Proxy Bidding',
+          link: '/guide/proxy-bidding'
+        },
+        {
+          text: 'Penny Auction',
+          link: '/guide/penny-auction'
+        },
+        {
+          text: 'Auto Pay',
+          link: '/guide/auto-pay'
+        },
+        {
+          text: 'CSV Feature',
+          link: '/guide/csv-feature'
+        },
+        {
+          text: 'SMTP Configuration',
+          link: '/guide/smtp-configuration'
+        },
+        {
+          text: 'Bid on Multiple Units',
+          link: '/guide/bid-on-multiple-units'
+        },
+        {
+          text: 'Auction Joining Fee',
+          link: '/guide/auction-joining-fee'
+        },
+        {
+          text: 'Restart Auctions',
+          link: '/guide/restart-auctions'
+        },
+        {
+          text: 'Upcoming Auctions',
+          link: '/guide/upcoming-auctions'
+        },
+        {
+          text: 'WhatsApp Notifications',
+          link: '/guide/whatsapp-bid-notification'
+        },
+        {
+          text: 'Klaviyo Integration',
+          link: '/guide/klaviyo'
+        },
+        {
+          text: 'Auto Pay',
+          link: '/guide/auto-pay'
+        },
+        {
+          text: 'Upgraded Features',
+          link: '/guide/upgraded-features'
         }
       ]
-    },
+    }
+  ]
+},
 
     // socialLinks: [
     //   {

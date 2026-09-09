@@ -19,22 +19,33 @@ features:
     link: /guide/installation
 
   - title: Auction Configuration
-    details: Configure auction settings, bidding rules, and other options to match your store requirements.
+    details: Configure auction settings, bidding rules, and other options for your store.
     link: /guide/auction-configuration
+
+  - title: Auction Joining Fee
+    details: Charge a joining fee from customers before they can participate in an auction.
+    link: /guide/auction-joining-fee
 
   - title: Proxy Bidding
     details: Allows automatic bidding on behalf of users up to their set limit.
     link: /guide/proxy-bidding
 
   - title: Penny Auction
-    details: Let users participate with flexible bidding rules similar to joining fees.
+    details: Configure penny auctions with flexible bidding rules and participation settings.
     link: /guide/penny-auction
 
-  - title: WhatsApp Bid Notification
-    details: Send real-time WhatsApp updates with outbid alerts, leading status, and auction results.
+  - title: Bid on Multiple Units
+    details: Allow customers to bid on multiple units of an auction product.
+    link: /guide/bid-on-multiple-units
+
+  - title: WhatsApp Notifications
+    details: Send WhatsApp notifications for important auction and bidding updates.
     link: /guide/whatsapp-bid-notification
+
+  - title: Klaviyo Integration
+    details: Integrate Klaviyo to manage customer communication and auction-related marketing updates.
+    link: /guide/klaviyo
 
   - title: Auto Pay
     details: Automatically charge customers once they win an auction.
     link: /guide/auto-pay
----
