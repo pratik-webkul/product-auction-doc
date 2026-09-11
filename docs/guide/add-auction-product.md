@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 
 
-With the [Product Auction](https://webkul.com/blog/shopify-product-auction/) App, Store Owners can enable bidding feature on products of their Shopify Store.
+With the [Product Auction](/guide/get-started) App, Store Owners can enable bidding feature on products of their Shopify Store.
 
 Admin can add auctions to products and customers will bid on any of those products of their choice. Once products get added for auction, Customers can start bidding on products.
 
@@ -52,7 +52,7 @@ Proxy Bidding is a concept in which the system automatically bids on your behalf
 
 ## Popcorn Bidding
 
-[Popcorn Bidding](https://webkul.com/blog/popcorn-bidding/), also known as Dynamic Bidding, is a way of giving the bidders who were outbid an opportunity to rebid.
+[Popcorn Bidding], also known as Dynamic Bidding, is a way of giving the bidders who were outbid an opportunity to rebid.
 
 Enable this option, enter the time within which you want to extend the auction deadline. Lastly, enter the number of times this whole popcorn bidding scenario can reoccur.
 
@@ -74,7 +74,7 @@ In this way, You can add any product for auction.
 
 Now, You will also have an option to upload Auction CSV file and add multiple products for auction in one go.
 
-[**Click here**](https://webkul.com/blog/shopify-product-auction-csv-feature/) to know about the **Auction CSV Feature** in detail.
+[**Click here**](/guide/csv-feature) to know about the **Auction CSV Feature** in detail.
 
 ![auction edit page](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/auction-list.webp)
 
@@ -86,7 +86,7 @@ Also, you can edit the auction details as well as Stop auction on this product m
 
 ![auction edit page](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/10/auction-detail.webp)
 
-Add multiple auctions in one go via CSV: **[Click here](https://webkul.com/blog/shopify-product-auction-csv-feature/)**.
+Add multiple auctions in one go via CSV: **[Click here](/guide/csv-feature)**.
 
 ## Frontend View
 
@@ -94,7 +94,7 @@ Once You add Products for auction and auction gets started then, to visualize th
 
 For this, You need to paste some codes (Provided in "Configure Frontend" Section of the app) into liquid files.
 
-[**Click here**](https://webkul.com/blog/shopify-product-auction-paste-codes-liquid-file/) to Understand the Code Pasting in detail.
+[**Click here**](/guide/code-integration) to Understand the Code Pasting in detail.
 
 Once done, You auction window for the auction products will be visible like this on Frontend:
 

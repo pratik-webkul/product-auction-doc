@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 
 
-[Product Auction](https://webkul.com/blog/shopify-product-auction/) app helps the merchants to provide an engaged bidding experience to the customers on their Shopify stores.
+[Product Auction](/guide/get-started) app helps the merchants to provide an engaged bidding experience to the customers on their Shopify stores.
 
 Merchants set products up for auction and customers bid on the auction products.
 
