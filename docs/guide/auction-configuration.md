@@ -4,6 +4,7 @@ description: Auction Configuration
 date: 2026-09-08
 author: Chirag Tyagi
 ---
+
 # Auction Configuration
 
 The Product Auction app provides a range of configuration options that allow you to customize auction settings, bidding behavior, storefront appearance, and email notifications.
@@ -93,7 +94,7 @@ Configure the auction/bidding configurations like enable/disable start auction a
 
 **Enable Multi Currency Feature:** Here you can enable multi currency and this will provide feature to customer to bid in multiple currency.
 
-### Restrict Consecutive Bidding
+## Restrict Consecutive Bidding
 
 We have introduced a new feature that allows the Admin to restrict consecutive bidding in auctions. Another bidder must outbid a bidder before they can place a new bid.
 
@@ -103,7 +104,7 @@ For this kindly go to the Product Auction Admin panel >> Configuration >> Auctio
 
 ![Restrict consecutive bidding](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/restrict-consecutive-bid.webp)
 
-### Highlight Current Bid On Collection & Product Page
+## Highlight Current Bid On Collection & Product Page
 
 You can now configure the color to highlight the current bid on your auction products.
 
@@ -121,7 +122,7 @@ This is how it appears on the product page of your store:
 
 ![product page](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Art_Gallery_%E2%80%93_auction-1200x856.png)
 
-### Confirmation Pop-up while placing Bid
+## Confirmation Pop-up while placing Bid
 
 You can now have the option to show a confirmation pop-up on the product page when a customer places a bid. Just visit the Auction Configuration and enable this option.
 
@@ -131,7 +132,7 @@ This is how the confirmation pop-up appears once a bid is placed.
 
 ![Art_Painting_on_Auction_–_auction](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Art_Painting_on_Auction_%E2%80%93_auction-1200x627.png)
 
-### Amount To Be Paid By The Auction Winner
+## Amount To Be Paid By The Auction Winner
 
 Once the bidder wins the auction, it depends on admin how he/she wants the bidder to pay the winning amount.
 
@@ -150,7 +151,7 @@ If the admin selects the % of winning bid, he/she needs to enter the percentage 
 
 ![Amount to be paid by auction winner](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/amount-to-be-paid.webp)
 
-### Hide Buy Now Button for Purchasing Auction Products
+## Hide Buy Now Button for Purchasing Auction Products
 
 In case you want to charge the winning amount outside the app, you can hide the "Buy Now" button for purchasing auction products of the winners.
 
@@ -164,13 +165,13 @@ This way, the system does not display the **‘Buy Now’** button to winners. H
 
 ![update purchase status](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/updatepurchasestatus.webp)
 
-### Mandate Customer Address and Phone Number
+## Mandate Customer Address and Phone Number
 
 ![Mandate Customer Address and Phone Number](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/mandate-customer-address.webp)
 
 When you enable the **‘Mandate Customer Address and Phone Number’** configuration, customers will be required to provide their address and phone number before participating in the auction.
 
-### Default Bid Rule
+## Default Bid Rule
 
 Now, the admin can set the default bid rules for the auctioned products of his store.
 
@@ -184,7 +185,7 @@ For this, visit **Product Auction App > Configuration > Auction Configuration**.
 
 The added bid rules will be by default added to all your future auction. Moreover, you can alter the by-default bid rule for any individual auction while adding/editing it.
 
-### Popcorn Bidding
+## Popcorn Bidding
 
 Popcorn Bidding, also known as Dynamic Bidding, is a way of giving the bidders who were outbid an opportunity to rebid.
 
@@ -198,7 +199,7 @@ Enter the time by which you want to extend the auction deadline and lastly, ente
 
 ![popcorn config](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/popcorn-config.webp)
 
-### Real-time Bid Update
+## Real-time Bid Update
 
 The product auction app is now upgraded with the feature of **real-time bid update**.
 
@@ -206,7 +207,7 @@ So, from now onwards, once a bidder places a bid for a product, the bids will ge
 
 No need to refresh the page again & again to update the last bid placed for any item.
 
-### Allow Customers To Place Normal & Proxy Bid With A Single Button
+## Allow Customers To Place Normal & Proxy Bid With A Single Button
 
 You can now allow customers to place a normal and a proxy bid using a single button for an auction product.
 
@@ -222,7 +223,7 @@ You just need to enable the option from the **Auction Configuration** menu of th
 
 Enabling this option will let you choose whether you want to enable this for all the running & upcoming auctions OR only for newly created auctions products.
 
-### Place Bid on Behalf of Customers
+## Place Bid on Behalf of Customers
 
 Now, the admin can place bids on behalf of customers using a CSV file.
 
@@ -236,7 +237,7 @@ Go through the instructions for the CSV file and then upload the CSV file to pla
 
 ![place bid csv](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/place-bid-csv.webp)
 
-### Over Limit Auction Feature
+## Over Limit Auction Feature
 
 The Product Auction plan includes support for up to 500 live auctions running simultaneously.
 
@@ -250,7 +251,7 @@ For every auction beyond the included 500 live auction limit, an additional char
 
 The first 500 live auctions are covered under your plan, while the remaining 500 auctions will be billed at $0.06 USD per auction.
 
-#### How to Enable the Over Limit Auction Feature
+## How to Enable the Over Limit Auction Feature
 
 To enable this feature, navigate to:
 
@@ -258,7 +259,7 @@ To enable this feature, navigate to:
 
 ![over limit](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/overlimit-1-1200x568.webp)
 
-### Reconcile Order
+## Reconcile Order
 
 When an auction ends, the system declares the highest bidder as the winner.
 
@@ -286,7 +287,7 @@ You can access this feature by navigating to:
 
 ![view auction](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/view-auct-1.webp)
 
-#### How it works
+## How it works
 
 When you click on 'Reconcile Order', a pop-up will appear where you can select the desired date range.
 
@@ -309,13 +310,13 @@ This file will contain the details of:
 
 This process ensures proper alignment of all auction order records and effectively resolves any discrepancies between auction wins and order creation.
 
-### Manage Orders
+## Manage Orders
 
 If you want to manage orders either within the store or outside the store, we provide a **Manage Orders** configuration in the Product Auction app, through which you can select your preferred option.
 
 ![manage order](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/manage-order.webp)
 
-### Widget Configuration
+## Widget Configuration
 
 You can configure the format of the "End Date" of the auctions on your products.
 
@@ -329,7 +330,7 @@ Configure the date format and click the **Save** button.
 
 That's all.
 
-### Design Configuration
+## Design Configuration
 
 Change or reset the look of the front end and design by changing the color of the background, themes, button text, label, and much more.
 
@@ -337,13 +338,13 @@ Change or reset the look of the front end and design by changing the color of th
 
 ![design configg](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/design-configg.webp)
 
-### Label Configuration
+## Label Configuration
 
 Edit the labels of buttons on the front and rename them as per your requirements such as changing the label of time end, bid end date, place my bid and much more.
 
 ![label config](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/label-1200x500.webp)
 
-### Mail Configuration
+## Mail Configuration
 
 Configure the after win, purchase reminder, after proxy loses mail content such as mail subject and content. You can also disable these different event’s email status.
 

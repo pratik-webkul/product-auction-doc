@@ -209,6 +209,10 @@ export default defineConfig({
         {
           text: 'Upgraded Features',
           link: '/guide/upgraded-features'
+        },
+        {
+          text: 'Auction API Documentation',
+          link: '/guide/auction-API-Documentation'
         }
       ]
     }
