@@ -69,7 +69,7 @@ This is how the Start Bid appears on the product page for upcoming auctions.
 
 Don't have a Shopify Store? [**Create One**](https://www.shopify.com/free-trial?ref=webkul)
 
-> _**Explore**: [Product Auction App](https://webkul.com/blog/shopify-product-auction/)_
+> _**Explore**: [Product Auction App](/guide/get-started)_
 
 > [**_Create an e-Auction Marketplace with Shopify_**](https://webkul.com/blog/create-an-online-auction-marketplace-using-shopify/)
 
