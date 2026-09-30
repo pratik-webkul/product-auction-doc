@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 
 Do you want your customers to place a bid for multiple units of the auctioned products?  
-If yes, then the [Product Auction App](https://webkul.com/blog/shopify-product-auction/) for Shopify has got this feature for you!
+If yes, then the [Product Auction App](/guide/get-started) for Shopify has got this feature for you!
 
 How winners are picked in case of multiple-unit bidding?
 --------------------------------------------------------

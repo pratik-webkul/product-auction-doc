@@ -21,7 +21,7 @@ With this magical app will enable the feature of bidding and auction of products
 *   The customer can view bidding history
 *   Admin can also enable/disable the ‘Add To Cart’ button if the bid amount exceeds the actual price.
 
-In this blog, we are with the [Product Auction app for Shopify](https://webkul.com/blog/shopify-product-auction/): SMTP configuration where you can configure your own SMTP to send emails to the customers from your own mail engine.
+In this blog, we are with the [Product Auction app for Shopify](/guide/get-started): SMTP configuration where you can configure your own SMTP to send emails to the customers from your own mail engine.
 
 ![SMTP config](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/06/smtp-section.webp)
 

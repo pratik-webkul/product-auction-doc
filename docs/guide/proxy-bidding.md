@@ -30,7 +30,7 @@ So, this is how the flow of proxy/automatic bidding goes.
 
 ## Product Auction: Proxy Bidding Feature
 
-The Admin can enable the functionality of proxy bidding using the [Product Auction](https://webkul.com/blog/shopify-product-auction/) app on his [Shopify](https://www.shopify.com/?ref=webkul) store.
+The Admin can enable the functionality of proxy bidding using the [Product Auction](/guide/get-started) app on his [Shopify](https://www.shopify.com/?ref=webkul) store.
 
 So to configure this, visit Product Auction app from Shopify backend > Configuration > Auction Configuration:
 
@@ -49,7 +49,7 @@ After this, save the configuration.
 
 The Admin can enable the proxy-bidding (automatic bidding) option while creating an auction product.
 
-When the Admin [creates an auction product](https://webkul.com/blog/shopify-product-auction-how-to-add-product/), he can enable/disable the proxy-bidding option on the particular page itself. Refer screenshot:
+When the Admin [creates an auction product](/guide/add-auction-product), he can enable/disable the proxy-bidding option on the particular page itself. Refer screenshot:
 
 ![automatic bidding](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/proxyconfigonauction.webp)
 

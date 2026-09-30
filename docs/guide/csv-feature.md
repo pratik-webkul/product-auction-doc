@@ -52,7 +52,7 @@ Shopify Product **Auction App** section>>Go to **Auctions**\>>Click on **Upload 
 
 **NOTE**:- You can create a maximum of 500 auctions at a time using CSV upload.
 
-This is all about the Auction CSV Feature of the [Product Auction](https://webkul.com/blog/shopify-product-auction/) App for Shopify.
+This is all about the Auction CSV Feature of the [Product Auction](/guide/get-started) App for Shopify.
 
 ## Bulk update via CSV
 
