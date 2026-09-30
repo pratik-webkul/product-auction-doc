@@ -220,7 +220,7 @@ After completing the configuration, you can choose how you want to run the email
 
 **Conclusion**
 
-The Mailing with Klaviyo integration for the [Product Auction App](https://webkul.com/blog/shopify-product-auction/) provides merchants with a powerful way to manage auction email notifications using Klaviyo’s email automation system.
+The Mailing with Klaviyo integration for the [Product Auction App](/guide/get-started) provides merchants with a powerful way to manage auction email notifications using Klaviyo’s email automation system.
 
 With this integration, merchants can create customized email templates, map them with auction events, and automate communication with bidders and customers.
 

@@ -2,10 +2,25 @@
 
 
 
-Product Auction for Shopify lets you add auction-based selling to your Shopify store. It allows customers to place bids on products and participate in live auctions while giving merchants control over auction settings and bidding rules.
+Product Auction for Shopify allows merchants to add auction-based selling to their Shopify store. Customers can place bids on products, participate in live auctions, and track their bidding activity directly from the storefront.
 
-With the app, you can create auction products, set the starting price, define the auction duration, configure bidding increments, and manage bids from the admin panel. Customers can participate in auctions directly from the storefront and track their bidding activity.
+With Product Auction, you can create auction products, set starting prices, define auction duration, configure bidding increments, and manage bids from the admin panel. You can also configure different auction options such as **Proxy Bidding, Penny Auction, and Popcorn Bidding** according to your requirements.
 
-Product Auction supports multiple bidding options, including Proxy Bidding, Penny Auction, Popcorn Bidding, and other auction settings. Features such as Auto Pay and WhatsApp Bid Notifications also help simplify the auction and winner management process.
+The app also provides features such as **Auto Pay** and **WhatsApp Bid Notifications** to help simplify winner management and keep customers informed about auction activity.
 
-This guide will help you set up Product Auction and configure its basic settings so you can start running auctions on your Shopify store.
+This guide will walk you through the installation, configuration, and available auction features so you can set up and manage auctions on your Shopify store.
+
+**Click here to watch the video ⬇️**
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    src="https://www.youtube.com/embed/k8D3nc3zKL4?si=D-kWZBjfzwLXm6Jo"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+  >
+  </iframe>
+</div>

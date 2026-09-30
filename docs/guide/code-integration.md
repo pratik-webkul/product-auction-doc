@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 
 
-[Product Auction App](https://webkul.com/blog/shopify-product-auction/) for Shopify enables the feature of bid or auction on your eCommerce website.
+[Product Auction App](/guide/get-started) for Shopify enables the feature of bid or auction on your eCommerce website.
 
 With this, the admin can enable the bidding feature on products he wants to go for auction and can monitor all the bids happening on the store from the app itself and much more.
 

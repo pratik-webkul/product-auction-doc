@@ -134,7 +134,7 @@ The app provides an option to enable or disable the Bootstrap Grid according to 
 
 From the **Configuration** section, you can enable or disable this feature.
 
-![Enable Bootstrap Grids](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/auctioinnew09.webp)
+![Enable Bootstrap Grids](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/enablebootstrap.webp)
 
 ## Enable Twilio SMS Gateway
 
@@ -146,7 +146,7 @@ You must have your own Twilio account. The messages and charges will be managed 
 
 First, enable the Twilio option from the configuration.
 
-![Twilio Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/auctioinnew10.webp)
+![Twilio Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/enabletwillio.webp)
 
 Once enabled, visit the **Twilio SMS Gateway** section and configure Twilio by entering the API KEY.
 
@@ -234,7 +234,7 @@ To enable this feature, visit:
 
 **App Admin Panel → Auction Configuration → Edit winning bid → Save**
 
-![Edit Winning Bid Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/08/auctionnew01.webp)
+![Edit Winning Bid Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/09/editwinningbid.webp)
 
 After enabling the configuration, the admin can edit the winning bid from:
 

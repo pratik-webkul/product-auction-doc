@@ -5,7 +5,7 @@ date: 2026-09-08
 author: Chirag Tyagi
 ---
 
-The [**Product Auction app for Shopify**](https://webkul.com/blog/shopify-product-auction/) is now come up with the option to restart unsuccessful auctions.
+The [**Product Auction app for Shopify**](/guide/get-started) is now come up with the option to restart unsuccessful auctions.
 
 Here, unsuccessful auctions refer to the finished/ended auctions for which either no bidding is placed or no winner is declared.
 
@@ -52,6 +52,6 @@ Now, as soon as the auction ends, the timer automatically starts, and the auctio
 
 This is all about the feature to Restart Unsuccessful Auctions.
 
-> To know about the app in detail, Refer to this [**Blog**](https://webkul.com/blog/shopify-product-auction/)!
+> To know about the app in detail, Refer to this [**Blog**](/guide/get-started)!
 
 Feel Free to [**Connect**](https://webkul.uvdesk.com/en/), in case of any assistance.

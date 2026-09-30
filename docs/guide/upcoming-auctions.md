@@ -6,7 +6,7 @@ author: Chirag Tyagi
 ---
 
 
-[Product Auction](https://webkul.com/blog/shopify-product-auction/) app helps the merchants to provide an engaged bidding experience to the customers on their Shopify stores.
+[Product Auction](/guide/get-started) app helps the merchants to provide an engaged bidding experience to the customers on their Shopify stores.
 
 Merchants set products up for auction and customers bid on the auction products.
 
@@ -69,7 +69,7 @@ This is how the Start Bid appears on the product page for upcoming auctions.
 
 Don't have a Shopify Store? [**Create One**](https://www.shopify.com/free-trial?ref=webkul)
 
-> _**Explore**: [Product Auction App](https://webkul.com/blog/shopify-product-auction/)_
+> _**Explore**: [Product Auction App](/guide/get-started)_
 
 > [**_Create an e-Auction Marketplace with Shopify_**](https://webkul.com/blog/create-an-online-auction-marketplace-using-shopify/)
 
