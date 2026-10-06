@@ -423,10 +423,6 @@ export default defineConfig({
               link: '/guide/penny-auction'
             },
             {
-              text: 'Auto Pay',
-              link: '/guide/auto-pay'
-            },
-            {
               text: 'CSV Feature',
               link: '/guide/csv-feature'
             },
