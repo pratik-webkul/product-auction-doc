@@ -165,6 +165,49 @@ This way, the system does not display the **‘Buy Now’** button to winners. H
 
 ![update purchase status](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/updatepurchasestatus.webp)
 
+
+## Display Purchase Now Option on Auction Widget
+
+The Auction app now provides a **Display Purchase Now Option on Auction Widget** configuration. When the admin enables this configuration, a **Purchase Now** button will appear on the auction widget, allowing customers to purchase the auction product directly without waiting for the auction to end.
+
+### How It Works
+
+- **Enable the Configuration:** The admin must enable the **Display Purchase Now Option on Auction Widget** setting to display the Purchase Now button on the auction widget.
+- **Purchase Now Price:** The admin can set the Purchase Now price while creating the auction.
+- **Button Visibility:** The Purchase Now button will be displayed only when the current bid price is lower than the Purchase Now price.
+- **Button Removal:** If the current bid price becomes equal to or higher than the Purchase Now price, the Purchase Now button will no longer be displayed.
+- **Auction Ends After Purchase:** If a customer or bidder clicks the Purchase Now button and successfully purchases the product, the auction will end.
+
+This feature allows customers to purchase an auction product immediately at the predefined Purchase Now price, provided the current bid is lower than that price.
+
+![purchasenow](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/purchasenowconfig.webp)
+
+![purchasenowauctionconfig](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/purchasenowprice.webp)
+
+![frontend](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/auctionwidget.webp)
+
+
+## Multi-Currency Support for Auctions
+
+The Auction app supports multi-currency functionality, allowing customers to view auction prices in the currency configured for their selected country or market.
+
+### How to Enable and Configure Multi-Currency
+
+1. **Enable Country/Region and Language Settings in Shopify:** Go to **Shopify Admin > Online Store > Preferences** and enable the required country/region and language settings.
+2. **Enable Multi-Currency in the Auction App:** Navigate to **Auction Admin Panel > Configuration > Auction Configuration** and enable the **Multi-Currency** feature.
+3. **Configure Markets in Shopify:** Add the required markets from the Shopify admin panel. All markets configured by the admin will be displayed on the storefront.
+
+### How It Works
+
+Once the configuration is complete, customers can select their country or market on the storefront. The auction bid price and other relevant auction prices will be displayed according to the currency configured for the selected region.
+
+![shopifyendconfig](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/shopifysetup.webp)
+
+![auctionendconfig](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/multicurrencyconfig.webp)
+
+![frontend](https://cdnblog.webkul.com/blog/wp-content/uploads/2026/10/multicurrencyprod.webp)
+
+
 ## Mandate Customer Address and Phone Number
 
 ![Mandate Customer Address and Phone Number](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/mandate-customer-address.webp)
